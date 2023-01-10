@@ -1,0 +1,14 @@
+FARAH SHAFIYAH S M
+20201247
+
+1. REST API
+    - REpresentational State Transfer, tahun 2000.
+    - REST API merupakan salah satu implementasi API yang memanfaatkan metode HTTP (GET, POST,
+      PUT, PATCH, DELETE) untuk berkomunikasi.
+
+3. Headless Architecture adalah konsep untuk mengembangkan aplikasi perangkat lunak dengan memisahkan
+   bagian frontend (UI) dan backend (logika). Headless Architecture memiliki kelebihan, antara lain:
+    - Agnostic, yaitu kebebasan untuk memilih framework frontend apapun dan menggunakan layanan apapun
+      yang biasa digunakan developer.
+    - Scalability, ringan dan modular yang sepenuhnya bisa disesuikan untuk tumbuh secara eksponsial.
+    - Agility, kinerja yang lebih cepat yang dapat mengurangi biaya
